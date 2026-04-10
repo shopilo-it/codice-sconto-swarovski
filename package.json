@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-swarovski",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Swarovski da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-swarovski",
+    "voucher-swarovski",
+    "coupon-swarovski",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/swarovski.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-swarovski.git"
+  }
+}
